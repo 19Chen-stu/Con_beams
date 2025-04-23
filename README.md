@@ -1,2 +1,2 @@
 # Con_beams
-Bulid for converging optical beams . There are many projects use for digital simulation and experimennt
+为汇聚球面光束仿真和实验恢复所写，提供基于MATLAB的脚本
